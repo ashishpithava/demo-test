@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+    width: 600px;
+    background-color: #1d2124;
+    color: whitesmoke;
+}
+
+article + article {
+    margin-top: 4rem;
+    padding-top: 1rem;
+    border-top: 1px white solid;
+}
+
+h1 a {
+    font-size: 40px;
+    text-decoration: none;
+    color: #9fcdff;
+}
+
+p {
+    font-size: 24px;
+}
